@@ -1,0 +1,9 @@
+# Runtime / device artifacts
+deads.log
+*.orig
+linkss/deads/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
