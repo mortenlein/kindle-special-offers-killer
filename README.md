@@ -1,3 +1,5 @@
+Bezos wanted $25 to stop showing the "Specialized ad" screensaver. Suck it, bezos.
+
 # kindle-special-offers-killer
 
 Replace the Amazon **"Special Offers"** ads on an old jailbroken Kindle with your
